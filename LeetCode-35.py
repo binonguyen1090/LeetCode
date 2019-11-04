@@ -13,3 +13,5 @@ class Solution:
         for k in range (0,len(nums)):
             if nums[k] == target:
                 return(k)
+
+
